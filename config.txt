@@ -1,0 +1,3 @@
+[General]
+project_name = Mass DMS
+time_sleep = 10
